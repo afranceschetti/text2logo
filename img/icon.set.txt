@@ -1,0 +1,5 @@
+iconset:fatcow
+
+?t1=&c1=ff6600&top1=59&left1=100&t2=&c2=ff9900&top2=122&left2=123&t3=&c3=9EABB0&top3=59&left3=171&t4=&c4=BDCDD4&top4=37&left4=205&t5=&c5=undefined&top5=98&left5=318&&f=Montserrat&cw=700px&ch=300px&z=1,2,3,4,5,
+
+http://www.logo24.info/?t1=&c1=9ade00&top1=59&left1=100&t2=&c2=009100&top2=59&left2=165&t3=&c3=9EABB0&top3=40&left3=194&t4=&c4=BDCDD4&top4=103&left4=152&t5=&c5=undefined&top5=98&left5=318&&f=Montserrat&cw=700px&ch=300px&z=1,2,3,4,5,
